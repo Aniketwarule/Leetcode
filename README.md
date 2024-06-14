@@ -6,6 +6,7 @@
 | [1217-relative-sort-array](https://github.com/Aniketwarule/Leetcode/tree/master/1217-relative-sort-array) |
 | [0075-sort-colors](https://github.com/Aniketwarule/Leetcode/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketwarule/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Aniketwarule/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 
 
 # Sorting
@@ -36,4 +37,5 @@
 # Greedy
 |  |
 | ------- |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Aniketwarule/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketwarule/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
