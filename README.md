@@ -8,12 +8,14 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketwarule/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Aniketwarule/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketwarule/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
 
 
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aniketwarule/Leetcode/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketwarule/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Aniketwarule/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aniketwarule/Leetcode/tree/master/1217-relative-sort-array) |
@@ -37,9 +39,15 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aniketwarule/Leetcode/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketwarule/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Aniketwarule/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketwarule/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
