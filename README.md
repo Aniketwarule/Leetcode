@@ -9,6 +9,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Aniketwarule/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketwarule/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aniketwarule/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 
 
 # Sorting
@@ -19,6 +20,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketwarule/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Aniketwarule/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aniketwarule/Leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aniketwarule/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketwarule/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
@@ -51,3 +53,4 @@
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Aniketwarule/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aniketwarule/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
