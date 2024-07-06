@@ -104,4 +104,12 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketwarule/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Aniketwarule/Leetcode/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Aniketwarule/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
