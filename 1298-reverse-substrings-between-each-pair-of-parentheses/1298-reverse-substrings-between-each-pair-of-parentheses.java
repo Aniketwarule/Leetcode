@@ -6,11 +6,12 @@ class Solution {
         {
             if(s.charAt(i)==')')
             {
-                String temp="";
+                StringBuilder temp = new StringBuilder();
+                //String temp="";
                 char t = st.pop();
                 while(t!='(')
                 {
-                    temp= temp+t;
+                    temp.append(t);
                     t = st.pop();
                 }
 
@@ -21,12 +22,12 @@ class Solution {
             }
             else st.push(s.charAt(i));
         }
-
-        String ans="";
+        StringBuilder ans = new StringBuilder();
+        //String ans="";
         while(!st.isEmpty())
         {
-            ans = st.pop()+ans;
+            ans.append(st.pop());
         }
-        return ans;
+        return ans.reverse().toString();
     }
 }
