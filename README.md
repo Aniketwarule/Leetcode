@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Aniketwarule/Leetcode/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/Aniketwarule/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Aniketwarule/Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
