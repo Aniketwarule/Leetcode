@@ -4,8 +4,10 @@ class Solution {
         for(int i=0;i<details.length;i++)
         {
             String s = "";
-            s = s + details[i].charAt(11)+details[i].charAt(12);
-            if(Integer.parseInt(s)>60) c++;
+            int a = Integer.parseInt(details[i].charAt(11)+"");
+            int b = (a*10)+Integer.parseInt(details[i].charAt(12)+"");
+            
+            if(b>60) c++;
         }
         return c;
     }
