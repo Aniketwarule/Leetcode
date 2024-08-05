@@ -88,6 +88,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Aniketwarule/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketwarule/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -148,6 +150,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Aniketwarule/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketwarule/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
