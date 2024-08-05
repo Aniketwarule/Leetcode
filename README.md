@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aniketwarule/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -169,6 +170,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
