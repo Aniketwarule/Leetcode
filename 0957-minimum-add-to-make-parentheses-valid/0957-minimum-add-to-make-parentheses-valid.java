@@ -3,17 +3,15 @@ class Solution {
         
         int br=0;
         int cb=0;
-        int n=0;
-        Stack<Character> st = new Stack<>();
-        st.push(s.charAt(0));
-        for(int i=1;i<s.length();i++)
+        for(int i=0;i<s.length();i++)
         {
-            if(!st.empty() && st.peek()=='(' && s.charAt(i)==')')
+            if(s.charAt(i)=='(') br++;
+            else
             {
-                st.pop();
+                if(br>0) br--;
+                else cb++; 
             }
-            else st.push(s.charAt(i));
         }
-        return st.size();
+        return cb+br;
     }
 }
