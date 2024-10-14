@@ -92,6 +92,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Aniketwarule/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketwarule/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketwarule/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aniketwarule/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Aniketwarule/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Aniketwarule/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
