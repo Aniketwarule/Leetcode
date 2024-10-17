@@ -125,6 +125,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Aniketwarule/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aniketwarule/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Aniketwarule/Leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketwarule/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -135,6 +136,7 @@
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Aniketwarule/Leetcode/tree/master/0670-maximum-swap) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Aniketwarule/Leetcode/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/Aniketwarule/Leetcode/tree/master/2645-pass-the-pillow) |
