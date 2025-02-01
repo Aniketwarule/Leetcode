@@ -95,6 +95,7 @@
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Aniketwarule/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketwarule/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3429-special-array-i](https://github.com/Aniketwarule/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
