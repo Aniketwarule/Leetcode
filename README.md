@@ -89,6 +89,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/Aniketwarule/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Aniketwarule/Leetcode/tree/master/1803-average-waiting-time) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Aniketwarule/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aniketwarule/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Aniketwarule/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
