@@ -80,6 +80,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1293-three-consecutive-odds](https://github.com/Aniketwarule/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Aniketwarule/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Aniketwarule/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Aniketwarule/Leetcode/tree/master/1755-defuse-the-bomb) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
