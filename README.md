@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2107-find-unique-binary-string](https://github.com/Aniketwarule/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -193,10 +194,12 @@
 ## Tree
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
@@ -236,4 +239,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
