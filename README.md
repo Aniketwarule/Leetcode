@@ -82,6 +82,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1293-three-consecutive-odds](https://github.com/Aniketwarule/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -195,12 +197,14 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -255,4 +259,8 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
