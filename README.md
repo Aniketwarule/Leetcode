@@ -93,6 +93,7 @@
 | [1755-defuse-the-bomb](https://github.com/Aniketwarule/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Aniketwarule/Leetcode/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Aniketwarule/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Aniketwarule/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aniketwarule/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2107-find-unique-binary-string](https://github.com/Aniketwarule/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -216,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Aniketwarule/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
