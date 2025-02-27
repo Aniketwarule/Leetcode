@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Aniketwarule/Leetcode/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/Aniketwarule/Leetcode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Aniketwarule/Leetcode/tree/master/2050-count-good-numbers) |
@@ -164,6 +165,7 @@
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Aniketwarule/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Aniketwarule/Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
+| [1013-fibonacci-number](https://github.com/Aniketwarule/Leetcode/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Aniketwarule/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aniketwarule/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
