@@ -118,6 +118,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Aniketwarule/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniketwarule/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aniketwarule/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Aniketwarule/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Aniketwarule/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aniketwarule/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aniketwarule/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aniketwarule/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
