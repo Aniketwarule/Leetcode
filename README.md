@@ -80,6 +80,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketwarule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aniketwarule/Leetcode/tree/master/0217-contains-duplicate) |
@@ -125,6 +126,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketwarule/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aniketwarule/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -208,6 +210,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aniketwarule/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketwarule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Aniketwarule/Leetcode/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -257,6 +261,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
