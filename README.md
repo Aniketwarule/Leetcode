@@ -87,6 +87,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aniketwarule/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1293-three-consecutive-odds](https://github.com/Aniketwarule/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/Aniketwarule/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketwarule/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -185,6 +186,7 @@
 ## Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aniketwarule/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketwarule/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -271,11 +273,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aniketwarule/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1755-defuse-the-bomb](https://github.com/Aniketwarule/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aniketwarule/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +300,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aniketwarule/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
