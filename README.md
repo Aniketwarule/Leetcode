@@ -85,6 +85,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketwarule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aniketwarule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Aniketwarule/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Aniketwarule/Leetcode/tree/master/0502-ipo) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aniketwarule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Aniketwarule/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aniketwarule/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Aniketwarule/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Aniketwarule/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aniketwarule/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniketwarule/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Aniketwarule/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Aniketwarule/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
