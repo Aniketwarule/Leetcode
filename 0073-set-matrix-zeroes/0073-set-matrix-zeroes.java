@@ -1,32 +1,26 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        
-        int r[]= new int[matrix.length];
-        int c[]= new int[matrix[0].length];
-        for(int i=0;i<matrix.length;i++)
+        int m = matrix.length;
+        int n = matrix[0].length;
+        boolean zeroinFirstCol = false;
+        for(int i=0;i<m;i++)
         {
-            for(int j=0;j<matrix[0].length;j++)
+            if (matrix[i][0] == 0) zeroinFirstCol = true;
+            for(int j=1;j<n;j++)
             {
-                if(matrix[i][j]==0)
-                {
-                    r[i]=1;
-                    c[j]=1;
+                if(matrix[i][j]==0) {
+                    matrix[i][0] =0;
+                    matrix[0][j] =0;
                 }
             }
         }
-        for(int i=0;i<r.length;i++)
+        
+        for(int i=m-1;i>=0;i--)
         {
-            if(r[i]==1)
-            {
-                for(int j=0;j<c.length;j++) matrix[i][j]=0;
+            for(int j=n-1;j>=1;j--){
+                if(matrix[i][0]==0 || matrix[0][j]==0) matrix[i][j]=0;
             }
-        }
-        for(int i=0;i<c.length;i++)
-        {
-            if(c[i]==1)
-            {
-                for(int j=0;j<r.length;j++) matrix[j][i]=0;
-            }
+            if(zeroinFirstCol) matrix[i][0]=0;
         }
     }
 }
