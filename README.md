@@ -97,6 +97,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketwarule/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketwarule/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Aniketwarule/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/Aniketwarule/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Aniketwarule/Leetcode/tree/master/1803-average-waiting-time) |
@@ -153,6 +154,7 @@
 | [0502-ipo](https://github.com/Aniketwarule/Leetcode/tree/master/0502-ipo) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketwarule/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketwarule/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Aniketwarule/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketwarule/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aniketwarule/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2502-sort-the-people](https://github.com/Aniketwarule/Leetcode/tree/master/2502-sort-the-people) |
@@ -164,6 +166,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aniketwarule/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Aniketwarule/Leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketwarule/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Aniketwarule/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketwarule/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aniketwarule/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Aniketwarule/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -331,5 +334,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Aniketwarule/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aniketwarule/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
