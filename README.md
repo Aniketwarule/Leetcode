@@ -117,6 +117,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Aniketwarule/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniketwarule/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketwarule/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aniketwarule/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3429-special-array-i](https://github.com/Aniketwarule/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -329,6 +330,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aniketwarule/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aniketwarule/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aniketwarule/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Memoization
 |  |
 | ------- |
@@ -343,4 +345,5 @@
 | [0073-set-matrix-zeroes](https://github.com/Aniketwarule/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniketwarule/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aniketwarule/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aniketwarule/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
