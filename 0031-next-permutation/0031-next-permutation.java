@@ -9,29 +9,30 @@ class Solution {
             }
         }
         System.out.print(ind);
-        if(ind==-1) nums=rev(nums,0);
+        if(ind==-1) rev(nums,0,nums.length-1);
         else{
-            for(int i=nums.length-1;i>=ind;i--)
+            for(int i=nums.length-1;i>ind;i--)
             {
                 if(nums[i]>nums[ind])
                 {
                     int temp =nums[i];
                     nums[i]=nums[ind];
                     nums[ind]=temp;
-                    nums = rev(nums,ind+1);
+                    rev(nums,ind+1,nums.length-1);
                     break;
                 }
             }
         }
     }
-    private int[] rev(int[] nums,int ind)
+    private int[] rev(int[] nums,int s,int e)
     {
-        int n=nums.length-1;
-        for(int i=ind;i<n;i++)
+        while(e>s)
         {
-            int temp =nums[ind];
-            nums[ind]=nums[n];
-            nums[n--]=temp;
+            int temp =nums[s];
+            nums[s]=nums[e];
+            nums[e]=temp;
+            s++;
+            e--;
         }
         return nums;
     }
