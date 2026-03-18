@@ -29,10 +29,8 @@ class Solution {
         while(e>s)
         {
             int temp =nums[s];
-            nums[s]=nums[e];
-            nums[e]=temp;
-            s++;
-            e--;
+            nums[s++]=nums[e];
+            nums[e--]=temp;
         }
         return nums;
     }
