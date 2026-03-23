@@ -83,6 +83,7 @@
 | [0031-next-permutation](https://github.com/Aniketwarule/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Aniketwarule/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aniketwarule/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketwarule/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aniketwarule/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
@@ -183,6 +184,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aniketwarule/Leetcode/tree/master/0048-rotate-image) |
 | [0670-maximum-swap](https://github.com/Aniketwarule/Leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Aniketwarule/Leetcode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aniketwarule/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -345,6 +347,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aniketwarule/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketwarule/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniketwarule/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aniketwarule/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
