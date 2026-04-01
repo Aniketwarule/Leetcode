@@ -84,6 +84,7 @@
 | [0039-combination-sum](https://github.com/Aniketwarule/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aniketwarule/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aniketwarule/Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Aniketwarule/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketwarule/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aniketwarule/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aniketwarule/Leetcode/tree/master/0078-subsets) |
@@ -158,6 +159,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aniketwarule/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniketwarule/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aniketwarule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketwarule/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
